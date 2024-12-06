@@ -1,0 +1,7 @@
+C:\Users\kasem\source\repos\MyHomework\MyHomework\bin\Debug\MyHomework.exe.config
+C:\Users\kasem\source\repos\MyHomework\MyHomework\bin\Debug\MyHomework.exe
+C:\Users\kasem\source\repos\MyHomework\MyHomework\bin\Debug\MyHomework.pdb
+C:\Users\kasem\source\repos\MyHomework\MyHomework\obj\Debug\MyHomework.csproj.AssemblyReference.cache
+C:\Users\kasem\source\repos\MyHomework\MyHomework\obj\Debug\MyHomework.csproj.CoreCompileInputs.cache
+C:\Users\kasem\source\repos\MyHomework\MyHomework\obj\Debug\MyHomework.exe
+C:\Users\kasem\source\repos\MyHomework\MyHomework\obj\Debug\MyHomework.pdb
